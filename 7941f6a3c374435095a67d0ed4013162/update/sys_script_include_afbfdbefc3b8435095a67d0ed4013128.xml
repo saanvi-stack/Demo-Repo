@@ -22,15 +22,15 @@ AIHelper.prototype = {
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-05-18 08:53:17</sys_created_on>
-        <sys_id>5d1a9367c3b8435095a67d0ed40131ca</sys_id>
+        <sys_created_on>2026-05-18 09:16:21</sys_created_on>
+        <sys_id>afbfdbefc3b8435095a67d0ed4013128</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AIHelper</sys_name>
         <sys_package display_value="Demo" source="x_1740101_demo">7941f6a3c374435095a67d0ed4013162</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo">7941f6a3c374435095a67d0ed4013162</sys_scope>
-        <sys_update_name>sys_script_include_5d1a9367c3b8435095a67d0ed40131ca</sys_update_name>
+        <sys_update_name>sys_script_include_afbfdbefc3b8435095a67d0ed4013128</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-18 08:53:17</sys_updated_on>
+        <sys_updated_on>2026-05-18 09:16:21</sys_updated_on>
     </sys_script_include>
 </record_update>

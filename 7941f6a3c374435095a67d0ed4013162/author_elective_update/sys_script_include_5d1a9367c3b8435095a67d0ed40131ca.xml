@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1740101_demo.AIHelper</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>AIHelper</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var AIHelper = Class.create();
+AIHelper.prototype = {
+    initialize: function() {
+    },
+
+    getMessage: function() {
+        return "Hello from ServiceNow";
+    },
+
+    type: 'AIHelper'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 08:53:17</sys_created_on>
+        <sys_id>5d1a9367c3b8435095a67d0ed40131ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AIHelper</sys_name>
+        <sys_package display_value="Demo" source="x_1740101_demo">7941f6a3c374435095a67d0ed4013162</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7941f6a3c374435095a67d0ed4013162</sys_scope>
+        <sys_update_name>sys_script_include_5d1a9367c3b8435095a67d0ed40131ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 08:53:17</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo">7941f6a3c374435095a67d0ed4013162</application>
+        <file_path/>
+        <instance_id>09ed7ed11b0e4ad032182f8dee4bcb84</instance_id>
+        <instance_name>dev265295</instance_name>
+        <name>sys_script_include_5d1a9367c3b8435095a67d0ed40131ca</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1740101_demo.AIHelper&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;AIHelper&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var AIHelper = Class.create();
+AIHelper.prototype = {
+    initialize: function() {
+    },
+
+    getMessage: function() {
+        return "Hello from ServiceNow";
+    },
+
+    type: 'AIHelper'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-18 08:53:17&lt;/sys_created_on&gt;&lt;sys_id&gt;5d1a9367c3b8435095a67d0ed40131ca&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;AIHelper&lt;/sys_name&gt;&lt;sys_package display_value="Demo" source="x_1740101_demo"&gt;7941f6a3c374435095a67d0ed4013162&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo"&gt;7941f6a3c374435095a67d0ed4013162&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_5d1a9367c3b8435095a67d0ed40131ca&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-18 08:53:17&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-239504339</payload_hash>
+        <record_name>AIHelper</record_name>
+        <reverted_from/>
+        <source>038bb2a7c3b4435095a67d0ed401313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 08:53:17</sys_created_on>
+        <sys_id>3b9ad3a7c3b8435095a67d0ed4013171</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e3a4a24060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 08:53:17</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>779ad3a736b843503899138e8605d670</update_guid>
+        <update_guid_history>779ad3a736b843503899138e8605d670:-239504339</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 09:15:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>6e5e5dc696664174b135faa1071d0e10</sys_id>
+        <sys_metadata>5d1a9367c3b8435095a67d0ed40131ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AIHelper</sys_name>
+        <sys_package display_value="Demo" source="x_1740101_demo">7941f6a3c374435095a67d0ed4013162</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7941f6a3c374435095a67d0ed4013162</sys_scope>
+        <sys_scope_delete display_value="">171b40b72b9742c0985949e3ccac3490</sys_scope_delete>
+        <sys_update_name>sys_script_include_5d1a9367c3b8435095a67d0ed40131ca</sys_update_name>
+        <sys_update_version display_value="sys_script_include_5d1a9367c3b8435095a67d0ed40131ca">3b9ad3a7c3b8435095a67d0ed4013171</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 09:15:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
