@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2adbeebc3b4435095a67d0ed4013172" label="AI_Table" max_length="40" name="x_1740101_demo_ai_table" type="collection">
+        <element label="Ai_field" max_length="40" name="ai_field" type="string"/>
+    </element>
+</database>
